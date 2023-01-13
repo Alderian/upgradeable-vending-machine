@@ -21,6 +21,13 @@ Added owner for authorization
 
 https://goerli.etherscan.io/address/0x09e2cF8dDf77e9B79fBDb90a29D435262624B3D4
 
+## v3 implementation contract
+
+Added address purchased amount
+
+https://goerli.etherscan.io/address/0x3323d821ac7dc775733b596a5ecc80fd59252ecb
+
+
 
 # Sample Hardhat Project
 
