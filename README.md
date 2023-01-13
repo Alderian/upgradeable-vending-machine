@@ -14,6 +14,12 @@ https://goerli.etherscan.io/address/0xAf1EfA9a186af32D573f977180375a8473B47dA0
 
 https://goerli.etherscan.io/address/0x13c1c4cD63Fe8198080421Eaf85A5C02188E0c1a
 
+## v2 implementation contract
+
+Added withdraw function 🤦
+Added owner for authorization
+
+https://goerli.etherscan.io/address/0x09e2cF8dDf77e9B79fBDb90a29D435262624B3D4
 
 
 # Sample Hardhat Project
